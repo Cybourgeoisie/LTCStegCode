@@ -14,6 +14,7 @@ We solved the puzzle in 13.5 days. Our solution and a description of the puzzle 
 # Compiling the code:
 
 g++ -Ofast -std=c++11 walk-backwards-decrypt-with-known-steps.cpp
+
 g++ -Ofast -std=c++11 decrypt-guessing-encryption-with-known-steps.cpp
 
 # Explanation:
